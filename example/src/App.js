@@ -147,39 +147,6 @@ const App = () => {
                 </a>
                 <br />
                 <br />
-                <div className="github-buttons">
-                    <a
-                        className="github-button"
-                        href="https://github.com/klendi/react-top-loading-bar"
-                        data-color-scheme="no-preference: light; light: light; dark: dark;"
-                        data-size="large"
-                        data-show-count="true"
-                        aria-label="Star klendi/react-top-loading-bar on GitHub"
-                    >
-                        Star
-                    </a>{' '}
-                    <a
-                        className="github-button"
-                        href="https://github.com/klendi"
-                        data-color-scheme="no-preference: light; light: light; dark: dark;"
-                        data-size="large"
-                        data-show-count="true"
-                        aria-label="Follow @klendi on GitHub"
-                    >
-                        Follow @klendi
-                    </a>
-                </div>
-                <br />
-                <div>
-                    Made with ❤️ by{' '}
-                    <a
-                        href="https://klendi.dev"
-                        style={{ color: barColor }}
-                        target="_blank"
-                    >
-                        Klendi Gocci
-                    </a>
-                </div>
             </div>
         </div>
     )
