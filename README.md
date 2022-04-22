@@ -103,21 +103,7 @@ export default App
 | containerClassName | String        |         | You can provide a class you'd like to add to the loading bar container to add some css styles                                     |
 | onLoaderFinished   | Function      |         | This is called when the loading bar completes, reaches 100% of his width.                                                         |
 
-## Projects using react-top-loading-bar
-
--   [React Movies](https://github.com/klendi/react-movies)
--   [WCYB](https://github.com/klendi/wcyb)
-
-Add your own project. Make a PR
-
-## Migrate from V.1
-
--   Replace onRef prop with 'ref', assign it to a react ref. Access methods with reactRef.current.xxx
-
-## Code Style
-
-[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](http://standardjs.com)
 
 ## License
 
-MIT © [Klendi Gocci](https://klendi.dev) | klendi.dev
+MIT
