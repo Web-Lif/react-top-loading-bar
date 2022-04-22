@@ -47,7 +47,7 @@ export default App
 
 ```jsx
 import React, { useState } from 'react'
-import LoadingBar from 'react-top-loading-bar'
+import LoadingBar from '@weblif/react-top-loading-bar'
 
 const App = () => {
     const [progress, setProgress] = useState(0)
@@ -72,7 +72,7 @@ export default App
 
 ## Demo
 
-[Click here for demo](https://klendi.github.io/react-top-loading-bar/)
+[Click here for demo](https://web-lif.github.io/react-top-loading-bar/)
 
 ## Built-in Methods
 

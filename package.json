@@ -75,9 +75,9 @@
         "top loading bar",
         "component"
     ],
-    "homepage": "https://klendi.github.io/react-top-loading-bar",
+    "homepage": "https://web-lif.github.io/react-top-loading-bar",
     "repository": {
         "type": "git",
-        "url": "https://github.com/klendi/react-top-loading-bar.git"
+        "url": "https://github.com/Web-Lif/react-top-loading-bar.git"
     }
 }
