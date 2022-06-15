@@ -1,6 +1,6 @@
 {
     "name": "@weblif/react-top-loading-bar",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "description": "A very simple, highly customisable react top loader component.",
     "author": {
         "name": "Klendi Gocci",
@@ -29,7 +29,7 @@
         "deploy": "gh-pages -d example/build"
     },
     "peerDependencies": {
-        "react": "^16 || ^17"
+        "react": "^17 || ^18"
     },
     "devDependencies": {
         "@types/react": "^16.9.27",
